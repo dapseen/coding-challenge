@@ -1,0 +1,22 @@
+ul li{
+    display:inline-block;
+    padding:20px;
+    border-right:2px solid #ccc
+}
+ul li a{
+    text-decoration:none;
+    color:#d3f900;
+    font-size:20px;
+    text-transform:capitalize;
+
+}
+.menu{
+    background-color:#052d0b;
+    height:65px;
+    margin:auto 0;
+    max-width:100%;
+    text-align:center;
+}
+body{
+    margin:0
+}
