@@ -1,0 +1,25 @@
+h2{
+    text-transform:uppercase;
+    font-weight:700;
+    color:#000;
+    position:absolute;
+    top:35%;
+    left:25%;
+    font-size:45px;
+}
+footer{
+    background-color:#ccc;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    font-size:18px;
+    height:50px;
+}
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+footer p{
+    text-transform:capitalize;
+}
